@@ -13,8 +13,8 @@ through the AI & Robotics program.
 - Natural Language Processing
 - Jupyter Notebooks, Google Colab
 ### Computer Vision (ITAI 1378)
-- [Object Detection System](link-to-project) - Real-time detection using YOLO
-- [Image Segmentation](link-to-project) - Semantic segmentation with U-Net
+- [Object Detection System] - Real-time detection using YOLO
+- [Image Segmentation] - Semantic segmentation with U-Net
 - 
 This portfolio contains all projects from the Computer Vision course at HCC. I learned how machines perceive the environment when interpreting data.
 
